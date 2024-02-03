@@ -49,7 +49,6 @@ function App() {
 
   return (
     <div className="App">
-      <Auth />
       <div st>
         <Container>
           <Table striped bordered hover>
